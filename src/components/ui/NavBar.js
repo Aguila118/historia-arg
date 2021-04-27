@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link, NavLink, } from 'react-router-dom'
-import escarapela from '../../../src/escarapela.svg';
 import './Nav.css';
 
 
@@ -10,7 +9,7 @@ export const NavBar = () => {
     <div className="nav">
       
         <Link className="titulo" to="/proyecto">
-          <img src={escarapela} alt="logo" className="escarapela"/>
+          <img src={`https://i.ibb.co/Fn0tmks/escarapela.png`} alt="escarapela" className="escarapela" />  
           <h2>Figuras y Hechos de la Historia Argentina</h2>
         </Link>
      

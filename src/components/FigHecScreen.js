@@ -10,7 +10,7 @@ export const FigHecScreen = ({history}) => {
   const {name} = useParams();
 
   const names = useMemo(() => getFigHecByName(name), [ name ])
-  const {id, fullName, baseBio, birth, bio, bio2, bio3, bio4} = names
+  const {httpId, id, fullName, bio, bio2, bio3, bio4} = names
 
   const handleClick = () => {
     const agregaSaFigura= ("/"+ id + "s")
@@ -20,7 +20,7 @@ export const FigHecScreen = ({history}) => {
   return (
     <div className="estiloScreen">
       <div className="estiloCard">
-        <img src={`/img/${name}Gde.jpg`} alt={name} className="imgGde" />
+        <img src={`https://i.ibb.co/${httpId}/${name}-Gde.jpg`} alt={name} className="imgGde" />
         <div className="estiloScreenTexto">
           <h2>{fullName}</h2>
           <p>{bio}</p>
