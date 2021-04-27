@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.10abbde0.chunk.css.map": "/static/css/main.10abbde0.chunk.css.map",
     "static/js/2.9fda0074.chunk.js.LICENSE.txt": "/static/js/2.9fda0074.chunk.js.LICENSE.txt",
-    "static/media/escarapela.4c3368d6.svg": "/static/media/escarapela.4c3368d6.svg"
+    "static/media/escarapela.4c3368d6.svg": "./static/media/escarapela.4c3368d6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2a85e41.js",
