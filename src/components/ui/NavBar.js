@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink, } from 'react-router-dom'
-import escarapela from '../../Assets/escarapela.svg';
+import escarapela from '../../../src/escarapela.svg';
 import './Nav.css';
 
 

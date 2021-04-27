@@ -1,5 +1,6 @@
 export const datos = [ 
   {
+    'httpId':'tzNpdQS',
     'id': 'figura',
     'name': 'sanMartin',
     'fullName':'Gral. José de San Martín', 
@@ -12,6 +13,7 @@ export const datos = [
    },
 
   {
+    'httpId':'HHBDgcR',
     'id': 'figura',
     'name': 'Belgrano',
     'fullName':'Gral. Manuel Belgrano', 
@@ -25,6 +27,7 @@ export const datos = [
   },
 
   {
+    'httpId':'qxCbC37',
     'id': 'figura',
     'name': 'Guemes',
     'fullName':'Gral. Martín Miguel de Güemes', 
@@ -38,6 +41,7 @@ export const datos = [
   },
 
   {
+    'httpId':'WKyPwY9',
     'id': 'figura',
     'name': 'Castelli',
     'fullName':'juan José Castelli', 
@@ -52,6 +56,7 @@ export const datos = [
 
 
   {
+    'httpId':'FggHHZB',
     'id': 'hecho',
     'name': 'RevolucionMayo',
     'fullName':'Revolucion de Mayo', 
