@@ -1,0 +1,57 @@
+.estiloScreen {
+  display: flex;
+  flex-direction: column;
+}
+
+.estiloCard {
+  display: flex;
+}
+
+.imgGde {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.estiloScreenTexto {
+  margin-left: 15px;
+}
+
+
+
+.estilosBoton2 {
+  height: 25px;
+  width: 250px;
+  background-Color: #00c0ff;
+  margin: 0 auto;
+  border-Radius:  10px;
+  text-Align: center;
+  border: none;
+  color: #ffffff;
+  cursor:  pointer;
+  text-Decoration:  none;
+  border: 2px solid #ffffff;
+}
+
+.estilosBoton2:hover {
+  padding-top: 5px;
+  background-Color: #ffffff;
+  border: 2px solid #00c0ff;
+  transition: 0.15s ease-in-out;
+  color: #00c0ff;
+}
+
+
+@media screen and (max-width: 600px) {
+  
+  .estiloCard {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imgGde {
+    width: 180px;
+    height: 180px;
+  }
+
+}

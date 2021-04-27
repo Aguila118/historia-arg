@@ -1,0 +1,38 @@
+
+h3, p {
+  color:#424242;
+}
+
+.linksContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links {
+  padding: 7px;
+  border-radius: 10px;
+  background-color: #00c0ff;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: none;
+  filter: drop-shadow(-2px 2px 3px rgba(0,0,0,0.3));
+  transition: 0.2s ease-in;
+}
+
+.links:hover {
+  background-color: #ffffff;
+  color: #00c0ff;
+  text-decoration: underline;
+}
+
+
+@media screen and (max-width: 600px) {
+  
+  .links {
+    padding: 4px;
+    font-size: 25px;
+
+  }
+
+}

@@ -1,0 +1,8 @@
+.mainContainer {
+  margin: 0px;
+  padding:0px;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #d3d3d3, #a6cdda);
+  height: 100%;
+  padding: 10px 10px;
+}
