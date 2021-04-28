@@ -69,5 +69,20 @@ export const datos = [
     'bio4': ''
   },
 
+  {
+    'httpId':'6m1WvjL',
+    'id': 'hecho',
+    'name': 'Independencia',
+    'fullName':'independencia de la República Argentina', 
+    'birth':'(09/07/1816)', 
+    'baseBio':'Acta de la Declaración de Independencia de las Provincias unidas del Rio de la Plata.',
+    'bio': 'La Declaración de Independencia de la Argentina fue una decisión tomada el martes 9 de julio de 1816 por el Congreso de Tucumán, por la cual declaró la formal ruptura de los vínculos de dependencia política de las Provincias Unidas del Río de la Plata con la monarquía española.',
+    'bio1': 'La declaración fue realizada en la Casa de Tucumán, ubicada en la ciudad de San Miguel de Tucumán, donde sesionaba la asamblea. Diez días más tarde, el mismo Congreso renunció también a toda otra dominación extranjera. El acto forma parte del movimiento de independencia hispanoamericana del Imperio español.',
+    'bio2': 'El Congreso de Tucumán inició sus sesiones en la Casa de Tucumán ubicada en San Miguel de Tucumán, el 24 de marzo de 1816, con la presencia de 33 diputados. Según la decisión de los propios delegados, la presidencia del Congreso era rotativa y cambiaba cada mes.',
+    'bio3': 'El acta original, firmada por todos los miembros del Congreso, fue redactada en el libro de Actas de las sesiones públicas de dicha asamblea. Ese libro se ha perdido. Algunos historiadores consideran que fue depositado en 1820 en la Legislatura de Buenos Aires, de donde posteriormente habría sido sustraído. En el Archivo General de la Nación Argentina se conserva una copia, realizada por el secretario Serrano a fines del mes de julio de 1816',
+    'bio4': ''
+  }
+
+  
 ]
 
